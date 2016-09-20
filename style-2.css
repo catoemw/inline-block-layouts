@@ -1,0 +1,60 @@
+.red {
+	background-color: #ff000c;
+	height: 100px;
+}
+
+body {
+	font-size: 0;
+	margin: 0;
+}
+
+main {
+	margin: 10px 0px 10px 0px;
+}
+
+.left {
+	background-color: #0fbdef;
+	width: 66.66%;
+	height: 700px;
+	display: inline-block;
+}
+
+.right {
+	position: absolute;
+	background-color: #f8f84d;
+	width: 33.33%;
+	height: 700px;
+	display: inline-block;
+}
+
+.box {
+	height: 45%;
+	width: 90%;
+}
+
+#top {
+	margin: 20px auto;
+}
+
+#bottom {
+	background-color: #f796bf;
+	margin: 20px auto;
+}
+
+.column {
+	display: inline-block;
+	width: 33.33%;
+	height: 100%;
+}
+
+#purple {
+	background-color: #8b7eb8;
+}
+
+#orange {
+	background-color: #f3632e;
+}
+
+#green {
+	background-color: #18b858;
+}

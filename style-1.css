@@ -1,0 +1,27 @@
+.red {
+	height: 100px;
+	background-color: #ff000c;
+}
+
+.column {
+	width: 33.333%;
+	height: 700px;
+	display: inline-block;
+}
+
+main {
+	font-size: 0;
+	margin: 10px auto;
+}
+
+#blue {
+	background-color: #0fbdef;
+}
+
+#green {
+	background-color: #18b858;
+}
+
+#yellow {
+	background-color: #fbfb4e;
+}
